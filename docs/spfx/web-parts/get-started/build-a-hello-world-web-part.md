@@ -149,6 +149,8 @@ If you get an error, you might need to [install the code command in PATH](https:
 
 TypeScript is the primary language for building SharePoint client-side web parts. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. SharePoint client-side development tools are built using TypeScript classes, modules, and interfaces to help developers build robust client-side web parts. 
 
+You can find mode details about the folder structure on [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter/blob/master/README.md) documentation page.
+
 The following are some key files in the project.
 
 ### Web part class
